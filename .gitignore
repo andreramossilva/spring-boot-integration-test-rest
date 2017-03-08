@@ -8,3 +8,4 @@ velocity.log
 */target/**
 */.settings/**
 */bin/**
+/target/
